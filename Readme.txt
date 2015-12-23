@@ -13,3 +13,6 @@
 # 5
 # Wow, lots of functions there.
 # Still long way to go.
+# 6
+# Need to practice it more often.
+# Hope this will do me lots of good.
