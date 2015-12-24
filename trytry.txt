@@ -11,3 +11,6 @@
 # 4
 # Now I'm getting kinda good at git stash.
 # It's actually not that hard.
+# 5
+# Oh, I really getting used to this.
+# This is so cool.
