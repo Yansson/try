@@ -1,2 +1,3 @@
 # Try, Try, Try,
 # Practice, Practice, Practice.
+# The branches of git stash might be a little confusing.
