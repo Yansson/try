@@ -1,2 +1,9 @@
+# 1
 # Try, Try, Try,
 # Practice, Practice, Practice.
+# 2
+# This ought to cost lots of efforts.
+# I'm on my way.
+# 3
+# This time I'm trying the git stash out.
+# I'm gonna handle it.
