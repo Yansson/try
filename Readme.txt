@@ -34,3 +34,6 @@
 # 12
 # Now I'm trying the no-ff mode.
 # Looks like it could leave records of deleted branches.
+# 13
+# Haha, lol, the no-ff mode is not that hard.
+# It could just leave marks so that you may know the modification was made on another pre-existed branch which was then somehow deleted.
