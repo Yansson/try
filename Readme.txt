@@ -25,3 +25,6 @@
 # 9
 # The git branch is a little bit confusing.
 # But I'm OK with it.
+# 10
+# Looks like the branches were where you commited the contents.
+# Not where you edited or staged.
