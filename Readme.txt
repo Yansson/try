@@ -31,3 +31,6 @@
 # 11
 # Branches are good places to store changes.
 # Master is the one awaits and changes later.
+# 12
+# Now I'm trying the no-ff mode.
+# Looks like it could leave records of deleted branches.
