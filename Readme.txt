@@ -25,3 +25,6 @@
 # 9
 # The git branch is a little bit confusing.
 # But I'm OK with it.
+# 11
+# Now the last modification was commited on dodo branch
+# Whereas THIS is the origin/master.
