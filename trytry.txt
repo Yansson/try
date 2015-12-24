@@ -7,3 +7,6 @@
 # 3
 # This time I'm trying the git stash out.
 # I'm gonna handle it.
+# 4
+# Now I'm getting kinda good at git stash.
+# It's actually not that hard.
