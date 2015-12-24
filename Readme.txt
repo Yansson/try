@@ -28,3 +28,6 @@
 # 10
 # Looks like the branches were where you commited the contents.
 # Not where you edited or staged.
+# 11
+# Branches are good places to store changes.
+# Master is the one awaits and changes later.
