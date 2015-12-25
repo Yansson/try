@@ -40,3 +40,7 @@
 # 14
 # Now here comes the last part.
 # Fetching the given branch that might been modified by others.
+# 15
+# After all these trying and experiences.
+# It's actually quite simple.
+# I could definitely handle all these.
