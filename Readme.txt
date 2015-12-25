@@ -44,3 +44,7 @@
 # After all these trying and experiences.
 # It's actually quite simple.
 # I could definitely handle all these.
+# 16
+# Approaching the end of this course.
+# So happy that I finished!
+# I will make good use of these skills.
