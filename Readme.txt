@@ -37,3 +37,6 @@
 # 13
 # Haha, lol, the no-ff mode is not that hard.
 # It could just leave marks so that you may know the modification was made on another pre-existed branch which was then somehow deleted.
+# 14
+# Now here comes the last part.
+# Fetching the given branch that might been modified by others.
